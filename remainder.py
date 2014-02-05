@@ -1,5 +1,5 @@
-def remanider(a,b):
-    answer =  a+b
+def rem(a,b):
+    answer =  a%b
     return (answer)
 
 print (rem(4,12))
